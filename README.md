@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Jiyeon%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=Jiyeon%20render&fontSize=70)
 
   <div align=center>
 	
