@@ -9,7 +9,7 @@
 <div align=center><h3> 📫 Contact </h3></div>
 <div align=center> sellawldus@gmail.com </div>
 
-<div align=center><h3> 📌 Skills </h3></div>
+<div align=center><h3> 🛠 Tech Stack 🛠 </h3></div>
 <div align=center>
 
 <div align=center><h4> Programming </h4></div>
