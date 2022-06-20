@@ -23,7 +23,6 @@
 <div align=center><h3>  🚀 GitHub Analytics </h3></div>
 <div align=center>
 
-</b>
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=JiyeaAn&show_icons=true)
 ![Jiyeon's github stats](https://github-readme-stats.vercel.app/api?username=jiyeoneom1&show_icons=true)[![Jiyeon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeoneom1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=Demo)](https://github.com/jiyeoneom1)
