@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JiyeonEom&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=JiyeonEom%fontAlign=70&fontAlignY=40&fontsize=60&fontcolor=ffffff)
 
   <div align=center>
 	
